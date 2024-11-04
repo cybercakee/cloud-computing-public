@@ -1,23 +1,59 @@
 {
-    "data":{
-        "first_name":"Kadek Restu",
-        "last_name":"Satya Wardana",
-        "email":"kadekrestusatyawardana@gmail.com",
-        "phone_number":"6281337982927",
-        "address":"Jl. Nagasari No.28, Penatih Dangin Puri, Kec. Denpasar Tim., Kota Denpasar, Bali 80237",
-        "about":"I am an experienced Full Stack Developer with over 8 years in building reliable, scalable web and mobile applications that align with business needs. Skilled in Vue.js and React.js for the frontend, and PHP Laravel and Golang for the backend, I bring together diverse technologies to create seamless user experiences. For mobile development, I use Flutter to deliver responsive, cross-platform applications.",
-        "profile_image":"https://avatars.githubusercontent.com/u/184176888?v=4&size=512",
-        "social_medias":[
-            {
-                "name":"facebook","link":"#","icon":"fab fa-facebook-f"
+    "data": {
+        "first_name": "Kadek Restu",
+        "last_name": "Satya Wardana",
+        "email": "kadekrestusatyawardana@gmail.com",
+        "phone_number": "6281337982927",
+        "address": "Jl. Nagasari No.28, Penatih Dangin Puri, Kec. Denpasar Tim., Kota Denpasar, Bali 80237",
+        "about": "I am an experienced Full Stack Developer with over 8 years in building reliable, scalable web and mobile applications that align with business needs. Skilled in Vue.js and React.js for the frontend, and PHP Laravel and Golang for the backend, I bring together diverse technologies to create seamless user experiences. For mobile development, I use Flutter to deliver responsive, cross-platform applications.",
+        "profile_image": "https://avatars.githubusercontent.com/u/184176888?v=4&size=512",
+        "social_medias": [{
+                "name": "facebook",
+                "link": "#",
+                "icon": "fab fa-facebook-f"
             },
             {
-                "name":"instagram","link":"https://www.instagram.com/kdrestusat_","icon":"fab fa-instagram"
+                "name": "instagram",
+                "link": "https://www.instagram.com/kdrestusat_",
+                "icon": "fab fa-instagram"
             },
             {
-                "name":"linkend","link":"https://www.linkedin.com/in/kadek-satya-wardana-3467b4297","icon":"fab fa-linkedin-in"
+                "name": "linkend",
+                "link": "https://www.linkedin.com/in/kadek-satya-wardana-3467b4297",
+                "icon": "fab fa-linkedin-in"
             }
-        ]
-        
+        ],
+        "experiences": [{
+            "name": "Freelance Web Developer",
+            "position": "Full Stack Developer",
+            "duration": "March 2016 - Current",
+            "items": [{
+                    "name": "2016 - Memulai karir sebagai Full-Stack Developer",
+                    "description": "Awal fokus pada pengembangan program koperasi, membantu berbagai koperasi dalam memodernisasi sistem manajemen mereka. Proyek ini berfokus pada pencatatan keuangan, pengelolaan anggota, dan transaksi."
+                },
+                {
+                    "name": "2017 - 2018 - Pengembangan E-commerce dan POS",
+                    "description": "Mulai menangani proyek e-commerce, baik untuk platform web maupun mobile, serta sistem POS (Point of Sale) untuk bisnis retail. Proyek ini melibatkan integrasi pembayaran, pengelolaan inventaris, dan fitur-fitur untuk meningkatkan pengalaman pengguna di platform e-commerce."
+                },
+                {
+                    "name": "2019 - Banking dan Sistem Profil Perusahaan",
+                    "description": "Bekerja dalam proyek untuk institusi keuangan yang melibatkan sistem perbankan serta pengembangan website company profile menggunakan WordPress dan Laravel. Mengembangkan situs yang menarik secara visual dan informatif untuk perusahaan dalam berbagai sektor."
+                },
+                {
+                    "name": "2020 - Proyek Pemerintah (Smart Desa dan GIS)",
+                    "description": "Terlibat dalam proyek pemerintah, seperti Smart Desa yang bertujuan untuk mendigitalkan layanan masyarakat desa dan sistem GIS (Geographic Information System) untuk pemetaan dan analisis wilayah."
+                },
+                {
+                    "name": "2021 - 2023 - Sistem Absensi Sekolah dan Pengembangan Proyek Lainnya",
+                    "description": "Membangun sistem absensi untuk sekolah, yang memungkinkan institusi pendidikan memonitor kehadiran siswa dengan lebih efisien. Selama periode ini, juga menangani berbagai proyek tambahan sesuai kebutuhan klien di sektor pemerintahan, pendidikan, dan bisnis."
+                },
+                {
+                    "name": "2024 - Sekarang - Pengembangan Berkelanjutan",
+                    "description": "Mengembangkan berbagai aplikasi dengan teknologi terbaru, seperti Vue.js, React.js, PHP Laravel, Golang, dan Flutter. Melanjutkan peran sebagai full-stack developer dengan fokus pada penyempurnaan e-commerce, ERP, dan aplikasi mobile untuk berbagai kebutuhan bisnis."
+                }
+            ]
+        }
+    ]
+
     }
 }
