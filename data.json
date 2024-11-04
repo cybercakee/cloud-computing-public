@@ -21,6 +21,16 @@
                 "name": "linkend",
                 "link": "https://www.linkedin.com/in/kadek-satya-wardana-3467b4297",
                 "icon": "fab fa-linkedin-in"
+            },
+            {
+                "name": "Whatsapp",
+                "link": "https://wa.me/6281337982927",
+                "icon": "fab fa-whatsapp"
+            },
+            {
+                "name": "Email",
+                "link": "mailto:kadekrestusatyawardana@gmail.com",
+                "icon": "fa fa-envelope"
             }
         ],
         "experiences": [{
