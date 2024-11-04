@@ -52,6 +52,93 @@
                     "description": "Mengembangkan berbagai aplikasi dengan teknologi terbaru, seperti Vue.js, React.js, PHP Laravel, Golang, dan Flutter. Melanjutkan peran sebagai full-stack developer dengan fokus pada penyempurnaan e-commerce, ERP, dan aplikasi mobile untuk berbagai kebutuhan bisnis."
                 }
             ]
+        },
+        {
+            "name": "PT Foxbyte Global Inovasi",
+            "position": "Frontend Developer",
+            "duration": "September 2024 - Current",
+            "items": [{
+                    "name": null,
+                    "description": "Slicing UI dengan Nuxtjs Berbasis VueJs 3"
+                },
+                {
+                    "name": null,
+                    "description": "Optimisasi Page, Implement Pinia dan juga Integrasi dengan API"
+                },
+                {
+                    "name": null,
+                    "description": "Penggunaan tailwind css sebagai library css"
+                }
+            ]
+        },
+        {
+            "name": "PT Foxbyte Global Inovasi",
+            "position": "Co-Lead  Project Manager",
+            "duration": "February 2022 - October 2022",
+            "items": [{
+                    "name": null,
+                    "description": "Melakukan pencatatan task dan distribusi task ke team"
+                },
+                {
+                    "name": null,
+                    "description": "Mengatur timeline pengembangan sistem & aplikasi"
+                },
+                {
+                    "name": null,
+                    "description": "Melakukan rekapan pelaporan sistem pengujian dari QA"
+                },
+                {
+                    "name": null,
+                    "description": "Melakukan diskusi dan meeting bersama client untuk kepentingan pengembangan sistem & aplikasi"
+                }
+                
+            ]
+        },
+        {
+            "name": "PT Foxbyte Global Inovasi",
+            "position": "Software Quality Assurance",
+            "duration": "March 2020 - September 2024",
+            "items": [{
+                    "name": null,
+                    "description": "Melakukan pembuatan testcase berbasis excel untuk aplikasi dan product"
+                },
+                {
+                    "name": null,
+                    "description": "Melakukan pengujian berbasis testcase yang telah dibuat"
+                },
+                {
+                    "name": null,
+                    "description": "Memberikan pelaporan pengujian setiap hari jumat ke PM"
+                },
+                {
+                    "name": null,
+                    "description": "Metode testing yang digunakan masih berbasis manual dan juga automatic ( Selenium )"
+                }
+                
+            ]
+        },
+        {
+            "name": "Colony Labs",
+            "position": "Quality Assurance",
+            "duration": "September 2019 - Januari 2024",
+            "items": [{
+                    "name": null,
+                    "description": "Melakukan pembuatan testcase berbasis excel untuk aplikasi Lestari Diskon"
+                },
+                {
+                    "name": null,
+                    "description": "Melakukan pengujian berbasis testcase yang telah dibuat"
+                },
+                {
+                    "name": null,
+                    "description": "Memberikan pelaporan pengujian setiap hari jumat ke PM"
+                },
+                {
+                    "name": null,
+                    "description": "Metode testing yang digunakan masih berbasis manual ( tidak automatic )"
+                }
+                
+            ]
         }
     ]
 
